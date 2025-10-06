@@ -5,4 +5,4 @@ Software Engineering Methods
 Oliver Henderson
 Hello
 
-![workflow](https://github.com/<UserName>/<RepositoryName>/actions/workflows/main.yml/badge.svg)
+![workflow](https://github.com/Olihenderson/seMethods/actions/workflows/main.yml/badge.svg)
